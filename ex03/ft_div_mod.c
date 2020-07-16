@@ -4,7 +4,7 @@
 void     ft_div_mod(int a, int b, int *div, int *mod)	{
 	
 	int p = 0;
-	if (p ! = '\0')
+	if (p! = '\0')
 	{
 		*mod = (a % b);
 		*div = (a / b);
