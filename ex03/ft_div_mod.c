@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void     ft_div_mod(int a, int b, int *div, int *mod)	{
 	
 	int p = 0;
